@@ -1,6 +1,6 @@
 MATLAB files as referenced in "Analyzing the differences in Olfactory Bulb spiking with ortho- and retronasal stimulation"
 Folder structure:
--Analytical = MATLAB scripts for synaptic input statistic equations and linear filter model. Files:
+-Analytic = MATLAB scripts for synaptic input statistic equations and linear filter model. Files:
      -check_SynMnVar_MC2MCt.m = Script to compare Monte Carlo ORN input statistics to analytical ODE apprx
      -drvLinFiltShift.m = Driver script of LinFiltShift.m to fit inputs (time-varying syn) to MonteCarlo of ouput stats
 -OBsc = Olfactory Bulb single compartment biophysical model. Files:
