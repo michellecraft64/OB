@@ -8,5 +8,5 @@ Folder structure:
      NOTE: This script is written to only generate a single trial because the model is computationally expensive.
      The statistics in d[Orth/Retr]_ct.mat files are averaged over 50,000 trials.
      -d[Orth/Retr]_ct.mat = Workspace of OB network model first and second-order statistics averaged over 50,000 trials
-     -expDat_orEB_Rat1.mat = Workspace of in vivo Rat data first and second-order statistics
+     -expDat_orEB_Rat1.mat = Workspace of in vivo rat data first and second-order statistics (single rat)
      -show_OrRetr.m = Script to compare OB network model MC stats with Orth/Retr in vivo data (uses .mat files)
